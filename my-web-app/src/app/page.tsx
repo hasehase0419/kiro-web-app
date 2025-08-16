@@ -7,7 +7,7 @@ export default function Home() {
         <Image
           className="dark:invert"
           src="/next.svg"
-          alt="Next.js logo"
+          alt="Next.jsロゴ"
           width={180}
           height={37}
           priority
@@ -27,11 +27,11 @@ export default function Home() {
           <Image
             aria-hidden
             src="/file.svg"
-            alt="File icon"
+            alt="ファイルアイコン"
             width={16}
             height={16}
           />
-          Learn
+          学習する
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
@@ -42,11 +42,11 @@ export default function Home() {
           <Image
             aria-hidden
             src="/window.svg"
-            alt="Window icon"
+            alt="ウィンドウアイコン"
             width={16}
             height={16}
           />
-          Examples
+          テンプレート
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
@@ -57,11 +57,11 @@ export default function Home() {
           <Image
             aria-hidden
             src="/globe.svg"
-            alt="Globe icon"
+            alt="グローブアイコン"
             width={16}
             height={16}
           />
-          Go to nextjs.org →
+          Next.js公式サイト →
         </a>
       </footer>
     </div>
