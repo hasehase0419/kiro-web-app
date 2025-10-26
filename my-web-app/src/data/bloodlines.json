@@ -1,0 +1,26 @@
+{
+  "deep-impact": {
+    "id": "deep-impact",
+    "name": "ディープインパクト系",
+    "description": "瞬発力に優れ、特に日本の高速馬場で圧倒的な強さを見せる近代競馬の結晶。しなやかな筋肉と優れた心肺機能を持ち、産駒はクラシックディスタンスで特に活躍する。",
+    "representative_color": "bg-blue-500",
+    "analysis": {},
+    "offspring": []
+  },
+  "king-kamehameha": {
+    "id": "king-kamehameha",
+    "name": "キングカメハメハ系",
+    "description": "パワーとスピードを兼ね備え、距離や馬場を問わずに活躍する産駒を多数輩出する万能血統。安定感があり、仕上がりが早いのも特徴。",
+    "representative_color": "bg-yellow-500",
+    "analysis": {},
+    "offspring": []
+  },
+  "sunday-silence": {
+    "id": "sunday-silence",
+    "name": "サンデーサイレンス系",
+    "description": "日本の競馬を根底から変えた大種牡馬。アグレッシブな気性と驚異的なスピードを産駒に伝え、数々の名馬を送り出した。",
+    "representative_color": "bg-red-500",
+    "analysis": {},
+    "offspring": []
+  }
+}
